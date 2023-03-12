@@ -1,0 +1,7 @@
+procedure Triada(color1, color2, color3){
+  Poner(color1)
+  Mover(Este)
+  Poner(color2)
+  Mover(Este)
+  Poner(color3)
+}
